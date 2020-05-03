@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Rookie Investor</title>
+</head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-light-blue.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<style>
+#welcome {
+  color: black;
+  padding: 40px;
+  text-align: center;
+  
+
+}
+
+.w3-lobster {
+  font-family: "Lobster", serif;
+}
+
+.description {
+  background-color: ;
+  color: black;
+  padding 20px;
+  text-align: center;
+}
+
+</style>
+<body>
+
+    <nav style="background-color:lightblue;color:white;padding:20px;">
+      <a href="#about me" class="w3-button w3-bar-item"><b>About Me</b></a>
+      <a href="#working experience" class="w3-button w3-bar-item"><b>Working Experience & Achievement</b></a>
+      <a href="#Education Level" class="w3-button w3-bar-item"><b>Analysis</b></a>
+      <a href="#contact" class="w3-button w3-bar-item"><b>Contact</b></a>
+    </nav>
+
+    <div style="text-align:center;background-color:lightblue;">
+      <img src="https://user-images.githubusercontent.com/64628133/80800261-9f019080-8bdb-11ea-93cd-c597af8e0e22.png" alt = workplaces style="width:100%;">
+    </div>
+
+    
+    <h1 id="welcome">Welcome to<b> The Rookie Investor !</b></h>
+    
+
+    <div class="w3-container">
+    <h2 class="w3-lobster"><i>About this page...</i></h2>
+    <p style="font-size:20px;text-align:justify;">Hello everyone. Welcome to my page. This will be one of my initiatives in taking a leap in my next career.
+    Generating passive income is one of the best way to utilise our hard earn money every month. Investment is
+    one of the best strategy to grow our savings other than putting in fixed deposits. However, picking a good stock
+    is not an easy job. Therefore, I have learnt as much as I can in order to gain more knowledge in investment analysis such as stock valuation
+    and financial analysis. Besides, I also have keen interest in data analysis and some programming. Therefore, 
+    I started to learn coding and created this page. This page basically is to share my opinon and views in some
+    of my stock analysis. Sharing is the fastest way in learning something. Hope you will enjoy reading some of
+    my posts!</p>
+    </div>
+
+    <div class="w3-row-padding">
+    <div class="w3-third">
+    <div.description>
+    <h3 class="w3-button w3-bar-item w3-lobster" style="font-size:30px;"><b>About Me</b></h3>
+    <p style="font-size:20px;text-align:justify;padding:20px;">
+    This is a little bit about me and my education background. You can connect with me in LinkedIn anytime too. Great minds think alike. It is my pleasure to connect with like-minded and great people.
+    </p>
+    <img src="https://user-images.githubusercontent.com/64628133/80815885-02ea8000-8c01-11ea-89d2-193619f7bbd4.png" alt="businessman" style="width:100%">
+    </div>
+
+    <div class="w3-third">
+    <h3 class="w3-button w3-bar-item w3-lobster" style="font-size:30px;"><b>Working Experience & Achievement</b></h3>
+    <p style="font-size:20px;text-align:justify;padding:20px;">
+    It is always fun to share my working experience and some of my achievements during my uni days and 
+    those days in the company I have joined. Besides, I will also share some of my future plans in achieving my goal.
+    </p>
+    <img src="https://user-images.githubusercontent.com/64628133/80816401-0d594980-8c02-11ea-9d1f-3504a3c96848.png" alt="achievement" style="width:100%">
+    </div>
+
+    <div class="w3-third">
+    <h3 class="w3-button w3-bar-item w3-lobster" style="font-size:30px;"><b>Fundamental Analysis</b></h3>
+    <p style="font-size:20px;text-align:justify;padding:20px;">
+    These are some of the analysis I have done thus far. I have put my best effort in introducing some of the 
+    selected companies and share some of my opinions on their stocks. Please click in and have a look!
+    </p>
+    <img src="https://user-images.githubusercontent.com/64628133/80816959-139bf580-8c03-11ea-80a5-c6eb04157bc5.png" alt="analysis" style="width:100%">
+    </div>
+    </div>
+    </div>
+    
+    <div>
+    <p style="padding:10px"></p>
+    </div>
+
+</body>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-light-blue w3-xlarge">
+  <a href="https://www.linkedin.com/in/xiong-hui-cheng-917a3a169/"><i class="fa fa-linkedin" style="font-size:36px"></i></a>
+  <p class="w3-medium">
+  Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
+  </p>
+</footer>
+</html>
